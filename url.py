@@ -1,4 +1,3 @@
-  GNU nano 5.4                 durum.py                           
 import urllib
 from urllib import request
 import os
