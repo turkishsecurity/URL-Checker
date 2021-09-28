@@ -11,7 +11,7 @@ print(" ")
 print("URL Durumu Kontrol Etme Aracı - URL Checker ")
 print("------------------------------")
 print(" ")
-site = input("Hedef Site: (Örnek: google.com Veya www.google.com)>
+site = input("Hedef Site: (Örnek: google.com Veya www.google.com")
 print("[1] HTTP") 
 print("[2] HTTPS")
 slct = input("Hangisi? (Default: 1) ")
